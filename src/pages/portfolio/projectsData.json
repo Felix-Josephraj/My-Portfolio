@@ -1,0 +1,12 @@
+[
+  {
+    "title": "E-Commerce",
+    "image": "./projectImages/E-commerce-laptop.png",
+    "description": "E-Commerce furniture website. User can Register to the site. User can browse products and filter products based on category, company, color and price. Loggedin user can checkout the product available in cart",
+    "technologies": "ReactJS | HTML | CSS",
+    "github": "https://github.com/Felix-Josephraj/E-commerce-react",
+    "deployed": "https://e-commerce-react-atn5.vercel.app/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  }
+]
